@@ -1,0 +1,15 @@
+C:\Users\corzu\Source\Repos\HNI-TPmoyennes\bin\Debug\net7.0\RSE-TPmoyennes.exe
+C:\Users\corzu\Source\Repos\HNI-TPmoyennes\bin\Debug\net7.0\RSE-TPmoyennes.deps.json
+C:\Users\corzu\Source\Repos\HNI-TPmoyennes\bin\Debug\net7.0\RSE-TPmoyennes.runtimeconfig.json
+C:\Users\corzu\Source\Repos\HNI-TPmoyennes\bin\Debug\net7.0\RSE-TPmoyennes.dll
+C:\Users\corzu\Source\Repos\HNI-TPmoyennes\bin\Debug\net7.0\RSE-TPmoyennes.pdb
+C:\Users\corzu\Source\Repos\HNI-TPmoyennes\obj\Debug\net7.0\RSE-TPmoyennes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corzu\Source\Repos\HNI-TPmoyennes\obj\Debug\net7.0\RSE-TPmoyennes.AssemblyInfoInputs.cache
+C:\Users\corzu\Source\Repos\HNI-TPmoyennes\obj\Debug\net7.0\RSE-TPmoyennes.AssemblyInfo.cs
+C:\Users\corzu\Source\Repos\HNI-TPmoyennes\obj\Debug\net7.0\RSE-TPmoyennes.csproj.CoreCompileInputs.cache
+C:\Users\corzu\Source\Repos\HNI-TPmoyennes\obj\Debug\net7.0\RSE-TPmoyennes.sourcelink.json
+C:\Users\corzu\Source\Repos\HNI-TPmoyennes\obj\Debug\net7.0\RSE-TPmoyennes.dll
+C:\Users\corzu\Source\Repos\HNI-TPmoyennes\obj\Debug\net7.0\refint\RSE-TPmoyennes.dll
+C:\Users\corzu\Source\Repos\HNI-TPmoyennes\obj\Debug\net7.0\RSE-TPmoyennes.pdb
+C:\Users\corzu\Source\Repos\HNI-TPmoyennes\obj\Debug\net7.0\RSE-TPmoyennes.genruntimeconfig.cache
+C:\Users\corzu\Source\Repos\HNI-TPmoyennes\obj\Debug\net7.0\ref\RSE-TPmoyennes.dll

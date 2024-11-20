@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "RSE-TPmoyennes/1.0.0": {
+        "runtime": {
+          "RSE-TPmoyennes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RSE-TPmoyennes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
