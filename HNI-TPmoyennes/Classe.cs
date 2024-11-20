@@ -35,8 +35,8 @@ namespace RSE_TPmoyennes
         public float moyenneMatiere(int indexMatiere)
         {
             if (indexMatiere < 0 || indexMatiere >= matieres.Count)
-                return 0.0f;
-
+                return 0.0f; //problème d'index
+            
             float somme = 0;
             int count = 0;
             foreach (var eleve in eleves)
@@ -48,7 +48,7 @@ namespace RSE_TPmoyennes
                     count++;
                 }
             }
-            return count > 0 ? (float)Math.Truncate(somme / count * 100) / 100 : 0.0f;
+            return count > 0 ? (float)Math.Truncate(somme / count * 100) / 100 : 0.0f; //si notes existantes renvoie la valeur moyenne sinon renvoie un indicateur 0.0f
         }
 
         public float moyenneGeneral()
@@ -59,7 +59,8 @@ namespace RSE_TPmoyennes
                 int index = matieres.IndexOf(matiere);
                 somme += moyenneMatiere(index);
             }
-            return matieres.Count > 0 ? (float)Math.Truncate(somme / matieres.Count * 100) / 100 : 0.0f;
+            return matieres.Count > 0 ? (float)Math.Truncate(somme / matieres.Count * 100) / 100 : 0.0f; //si notes existantes renvoie la valeur moyenne sinon renvoie un indicateur 0.0f
         }
+    }
     }
 }

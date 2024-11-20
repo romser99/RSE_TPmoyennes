@@ -37,7 +37,7 @@ namespace RSE_TPmoyennes
                     count++;
                 }
             }
-            return count > 0 ? (float)Math.Truncate(somme / count * 100) / 100 : 0.0f;
+            return count > 0 ? (float)Math.Truncate(somme / count * 100) / 100 : 0.0f; //si notes présentes renvoie valeur sinon renvoie un indidateur d'erreur
         }
 
         public float moyenneGeneral()
@@ -53,7 +53,7 @@ namespace RSE_TPmoyennes
             {
                 somme += moyenne;
             }
-            return moyennesMatieres.Count > 0 ? (float)Math.Truncate(somme / moyennesMatieres.Count * 100) / 100 : 0.0f;
+            return moyennesMatieres.Count > 0 ? (float)Math.Truncate(somme / moyennesMatieres.Count * 100) / 100 : 0.0f; // comme dans moyenneMatiere
         }
     }
 }
